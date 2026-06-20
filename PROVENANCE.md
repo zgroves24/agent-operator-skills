@@ -8,6 +8,8 @@ The public copies were sanitized before publication. Some skills were rewritten 
 
 This project is not affiliated with or endorsed by OpenAI, Anthropic, Vercel, GitHub, or any other platform named in examples.
 
+Repository logo assets were generated and added for public branding. They do not contain personal names, email addresses, private product names, or account identifiers.
+
 ## Initial Included Set
 
 - `codex-improvement-loop`: rewritten into a generic multi-step coding orchestration pattern.
