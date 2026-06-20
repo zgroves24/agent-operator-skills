@@ -1,0 +1,6 @@
+interface:
+  display_name: "SEO Audit"
+  short_description: "Grade SEO and find highest-leverage fixes"
+  default_prompt: "Use $seo-audit to audit this site, score it, and identify the highest-leverage SEO fixes."
+policy:
+  allow_implicit_invocation: true
